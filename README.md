@@ -210,6 +210,6 @@ This project is a part of my internship at LetsUpgrade Labs.
 
 > BULKMAILINGQUEUE="bulkmailingqueue"
 
-> SECRETKE="secret key for jwt encoding"
+> SECRETKEY="secret key for jwt encoding"
 
 **_For the file Upload functionality to work, create a service key from your google console (google cloud platform account) and download it. Rename it to key.json_**
