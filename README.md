@@ -117,11 +117,18 @@ So the basic work flow will be
 
 - [x] Debit reward for a negative action.
 
+### Logging
+
+---
+
+- [x] The incentives that are carried out are logged to the database using winston-mongodb package
+
 ## Tech Stack
 
 ---
 
 > - NodeJs
+> - Express
 > - MongoDb
 > - Firebase (For authentication)
 > - RabbitMQ (message queuing and broker services)
